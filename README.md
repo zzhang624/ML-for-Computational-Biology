@@ -1,2 +1,5 @@
 # ML-for-Computational-Biology
-Course projects 
+
+
+Implement “PCA” algorithm from scratch using Numpy.  
+Implement “TSNE” and “UMAP” using packages sklearn and umap-learn.
