@@ -1,4 +1,4 @@
-# In this homework, we will implement PCA in three ways, and we will test the implementation on peripheral blood mononuclear cells(PBMCs) single-cell gene expression dataset 
+# we will implement PCA in three ways, and we will test the implementation on peripheral blood mononuclear cells(PBMCs) single-cell gene expression dataset 
 # The dataset is stored as a matrix, where each row records the the gene expression feature of an individual cell. There a totally 3000 cells, with 3000 feature for each cell.
 
 # TODO: Implement both function `pca', `svd' and `pca_sklearn', run the code and submit your result, including figures and matrix output. Note that we have loaded all necessary packages for the implementation, 
